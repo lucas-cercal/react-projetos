@@ -15,10 +15,10 @@
   margin-bottom: 10px;
   text-align: right;
   padding: 5px;
+  overflow: auto;
 }
 
 .complete-operation {
-  overflow: auto;
   height: 30px;
 }
 
